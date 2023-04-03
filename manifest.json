@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Ballin' But It's Lofi",
+    "description": "Animan studios >> Disney",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "developer":
+    {
+        "name": "Slyrith"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+	  "license": "license.txt",
+        "payload":
+        {
+            "background_music":
+            [
+                "music/Ballin.mp3"
+            ]
+        }
+    }
+}
