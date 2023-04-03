@@ -10,7 +10,7 @@ GXMods Background Music
 install now!
 https://store.gx.me/mods/feh0ex/ballin-but-it-s-lofi/
 or install it locally
-[Click this text!](https://github.com/Slyrith/Ballin-But-Its-Lofi/raw/main/Ballin But It's Lofi.crx)
+[Click this text!](https://github.com/Slyrith/Ballin-But-Its-Lofi/raw/main/Ballin_But_Its_Lofi.crx)
 
 ## Mod Feature
 - Background music
